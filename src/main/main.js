@@ -12,8 +12,8 @@ function createWindow(){
       enableRemoteModule: true
     }
   })
-  // mainWindow.loadURL('http://localhost:3000/')
-  mainWindow.loadFile(url)
+  mainWindow.loadURL('http://localhost:3000/')
+  // mainWindow.loadFile(url)
 }
 
 
